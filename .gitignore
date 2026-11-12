@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+.tmp/
+obj/
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.log
+*.tlog
+
+# Engine (DigiPen CProcessing and FMOD), not included in the repo
+Extern/
+
+# Windows
+Thumbs.db
+Desktop.ini

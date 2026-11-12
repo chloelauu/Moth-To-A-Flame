@@ -62,7 +62,6 @@ If the game says a file like `VCRUNTIME140.dll` is missing, install the [Microso
 ## Asset credits
 
 - Fonts: Darkening (1001 Fonts), Wicked Scary Movie
-- Sound effects: ADD SOURCES
 
 ## Building from source
 

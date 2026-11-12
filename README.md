@@ -54,9 +54,9 @@ If the game says a file like `VCRUNTIME140.dll` is missing, install the [Microso
 
 ## Team
 
-- **Chloe Lau Rey En:** game state management, camera, sticky hazards, game over screen, difficulty modes
-- **Tan Shi Qi Charity:** player movement and stamina, map design, credits screen, moth art
-- **Tan Jia Qi Trish:** bird enemy, food, health and damage, damage hazards, visual cues, enemy and light-source art
+- **Chloe Lau Rey En:** camera, coordinate conversion, sticky hazards, collisions, game flow, difficulty modes
+- **Tan Shi Qi Charity:** player movement and stamina, map design, credits screen, help with the art
+- **Tan Jia Qi Trish:** most of the game's art, bird enemy, food, health and damage, damage hazards, visual cues
 - **Choi Meng Yew:** frog enemy, main menu, guide and controls screens, safe zones, audio
 
 ## Asset credits
